@@ -289,7 +289,7 @@
     <string name="movies_singular">电影</string>
     <string name="tv_series_singular">剧集</string>
     <string name="cartoons_singular">卡通</string>
-    <string name="anime_singular">@string/动漫</string>
+    <string name="anime_singular">@string/anime</string>
     <string name="ova_singular">@string/ova</string>
     <string name="torrent_singular">Torrent</string>
     <string name="documentaries_singular">纪录片</string>
